@@ -51,6 +51,7 @@
 - Herschel infrared heater
 - HJZ oil column radiator
 - Hombli radiator controller
+- HR-J07EW panel heater
 - Imaxfire AWA2 water vapour fireplace
 - In-Ring-R radiator thermostat
 - InkbirdPlus HT2024 space heater
